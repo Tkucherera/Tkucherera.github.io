@@ -2,8 +2,8 @@
 .lds-grid {
   display: inline-block;
   position: relative;
-  width: 80px;
-  height: 80px;
+  width: 200px;
+  height: 200px;
 }
 .lds-grid div {
   position: absolute;
@@ -598,7 +598,8 @@ body.mobile-nav-active #mobile-nav-toggle {
   position: relative;
   height: 200px;
   overflow: hidden !important;
-  margin-bottom: 15px;
+  margin-bottom: 50px;
+  margin-left: 50px;
   transition: all 350ms ease;
   -webkit-transform: scale(1);
   transform: scale(1);
@@ -606,7 +607,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #portfolio .portfolio-item a {
   display: block;
-  margin-right: 15px;
+  margin-right: 50px;
 }
 
 #portfolio .portfolio-item img {
