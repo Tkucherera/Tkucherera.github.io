@@ -140,6 +140,7 @@ margin: 0 auto;
   user-select: none;
 }
 
+
 /* Position the "next button" to the right */
 .next {
   right: 0;
@@ -254,6 +255,10 @@ margin: 0 auto;
   height: fixed;
 }
 
+.tab-container {
+
+}
+
 /*******************************
 6. image/icon gallery responsive
 *******************************/
@@ -297,6 +302,13 @@ div.desc {
   .responsive {
     width: 100%;
   }
+
+  .block {
+    font-weight:2px;
+    font-size: 14px;
+  }
+
+
 }
 
 .clearfix:after {
